@@ -69,8 +69,8 @@ Currently open to Android-focused opportunities and continuous learning.
 
 <p align="left">
   <a href="mailto:maihekal25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/maihekal25" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p> 
+  <a href="https://www.linkedin.com/in/mai-hekal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
